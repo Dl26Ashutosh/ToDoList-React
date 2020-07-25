@@ -1,0 +1,21 @@
+.ToDoInput
+{
+    height: 200px;
+    width: 500px;
+    border: 2px solid black;
+    box-shadow: 3px 5px 5px rgb(59, 55, 57);
+    background-color: rosybrown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.todoadd
+{
+    background-color: rgb(203, 170, 226);
+    font-weight: 500;
+    font-size: 18px;
+    box-shadow: 3px 5px 5px rgb(68, 61, 61);
+    margin: 10px;
+}
+.todowork
+{
+    box-shadow: 3px 5px 5px black;
+}

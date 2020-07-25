@@ -1,0 +1,29 @@
+.ToDoListContainer
+{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(104, 77, 90);
+    border: 1px solid;
+    box-shadow: 3px 5px 5px rgb(49, 47, 47);
+    padding: 5px;
+    margin: 10px;
+}
+
+.DelButton
+{
+    background-color: rgb(203, 170, 226);
+    font-weight: 500;
+    font-size: 18px;
+    box-shadow: 3px 5px 5px rgb(68, 61, 61);
+    margin: 10px;
+}
+
+.todolist
+{
+    margin: 5px;
+    border: 1px solid black;
+    background-color: rgb(196, 158, 199);
+    list-style-type: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
